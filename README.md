@@ -9,19 +9,19 @@
 
 ---
 
-# 📁 Projeto
+# Projeto
 
 ---
 
-# 📊 1. State of Data Brasil 2023 — Análise do Mercado de Dados
+# 1. State of Data Brasil 2023 — Análise do Mercado de Dados
 
-## 🎯 Objetivo
+## Objetivo
 
 Análise exploratória do dataset **State of Data Brasil 2023**, com foco no perfil de profissionais da área de dados no Brasil.
 
 ---
 
-## ⚙️ Pipeline de Análise
+## Pipeline de Análise
 
 - Importação e leitura do dataset (CSV)
 - Tratamento de valores ausentes e inconsistentes
@@ -32,7 +32,7 @@ Análise exploratória do dataset **State of Data Brasil 2023**, com foco no per
 
 ---
 
-## 🧰 Tecnologias
+## Tecnologias
 
 - Python 
 - Pandas  
@@ -42,16 +42,16 @@ Análise exploratória do dataset **State of Data Brasil 2023**, com foco no per
 
 ---
 
-## 📊 Principais Visualizações
+## Principais Visualizações
 
-### 👥 Distribuição de idade por gênero e profissão
+### Distribuição de idade por gênero e profissão
 
 <p align="center">
   <img width="996" height="548" alt="1000332707" src="https://github.com/user-attachments/assets/00807681-8711-4d58-8506-5d10f157a989" />
   
 ---
 
-### 🌎 Distribuição de idade por etnia/cor e profissão
+### Distribuição de idade por etnia/cor e profissão
 
 <p align="center">
   
