@@ -42,6 +42,16 @@ Análise exploratória do dataset **State of Data Brasil 2023**, com foco no per
 
 ---
 
+## Como executar
+
+```bash
+pip install -r requirements.txt
+```
+
+Baixe o dataset seguindo as instruções em [`data/README.md`](data/README.md) e rode o notebook [`analise_state_of_data_br_2023.ipynb`](analise_state_of_data_br_2023.ipynb).
+
+---
+
 ## Principais Visualizações
 
 ### Distribuição de idade por gênero e profissão
