@@ -57,7 +57,7 @@ Baixe o dataset seguindo as instruções em [`data/README.md`](data/README.md) e
 ### Distribuição de idade por gênero e profissão
 
 <p align="center">
-  <img width="996" height="548" alt="Distribuição da faixa etária por profissão e gênero" src="assets/image1.png" />
+  <img width="996" height="548" alt="Distribuição da faixa etária por profissão e gênero" src="assets/distribuicao_idade_genero.png" />
 </p>
 
 ---
@@ -65,6 +65,6 @@ Baixe o dataset seguindo as instruções em [`data/README.md`](data/README.md) e
 ### Distribuição de idade por etnia/cor e profissão
 
 <p align="center">
-  <img width="996" height="548" alt="Distribuição da faixa etária por profissão e etnia/cor declarada" src="assets/image2.png" />
+  <img width="996" height="548" alt="Distribuição da faixa etária por profissão e etnia/cor declarada" src="assets/distribuicao_idade_etnia.png" />
 </p>
 
