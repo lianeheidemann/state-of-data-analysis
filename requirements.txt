@@ -1,4 +1,4 @@
-pandas
-matplotlib
-seaborn
-jupyter
+pandas==3.0.5
+matplotlib==3.11.1
+seaborn==0.13.2
+jupyter==1.1.1
