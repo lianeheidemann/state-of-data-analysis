@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebooks-orange?style=for-the-badge&logo=jupyter"/>
 </p>
 
-## Objetivo
-
 Análise exploratória do dataset **State of Data Brasil 2023**, com foco no perfil de profissionais da área de dados no Brasil.
 
 ---
