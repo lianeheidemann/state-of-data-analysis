@@ -13,3 +13,6 @@ env/
 # Sistema operacional
 .DS_Store
 Thumbs.db
+
+# Dados gerados pelo notebook (regeneráveis, não versionados)
+data/processed/
