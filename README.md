@@ -38,6 +38,12 @@ Análise exploratória do dataset **State of Data Brasil 2023**, com foco no per
 pip install -r requirements.txt
 ```
 
+Para reproduzir exatamente o ambiente usado no desenvolvimento (todas as dependências transitivas fixadas), use o lockfile gerado com [`uv`](https://docs.astral.sh/uv/) em vez do comando acima:
+
+```bash
+pip install -r requirements-lock.txt
+```
+
 > ⚠️ Se tiver mais de uma instalação de Python na máquina, certifique-se de selecionar o mesmo interpretador tanto para instalar as dependências quanto como kernel do notebook (no VS Code: botão "Select Kernel" no canto superior direito do notebook).
 
 Baixe o dataset seguindo as instruções em [`data/README.md`](data/README.md) e rode o notebook [`analise_state_of_data_br_2023.ipynb`](analise_state_of_data_br_2023.ipynb).
@@ -75,5 +81,5 @@ Baixe o dataset seguindo as instruções em [`data/README.md`](data/README.md) e
 
 ## Dados tratados e tabelas-resumo
 
-Os DataFrames tratados e as tabelas-resumo (idade média e contagem por profissão, gênero e etnia) usados nas análises acima são exportados pelo próprio notebook em [`data/processed/`](data/processed/), permitindo consultar os resultados sem precisar reexecutar o código.
+Os DataFrames tratados e as tabelas-resumo (idade média e contagem por profissão, gênero e etnia) usados nas análises acima são exportados pelo próprio notebook em `data/processed/` ao executá-lo. Essa pasta não é versionada no repositório — os arquivos são gerados localmente a cada execução.
 
