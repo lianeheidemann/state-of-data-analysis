@@ -64,7 +64,7 @@ Baixe o dataset seguindo as instruções em [`data/README.md`](data/README.md) e
 
 ## Principais insights
 
-- **Ciência de Dados concentra a maior amostra analisada:** o resumo por gênero contém 535 cientistas de dados, contra 120 analistas e 117 engenheiros de dados.
+- **Ciência de Dados concentra a maior amostra analisada:** somando os dois gêneros, o resumo por gênero registra 535 cientistas de dados, contra 120 analistas e 117 engenheiros de dados.
 - **A participação feminina é minoritária nas três funções:** aproximadamente 17,4% em Ciência de Dados, 20,8% em Análise de Dados e 20,5% em Engenharia de Dados.
 - **As médias de idade são próximas entre os gêneros:** dentro de cada profissão, a diferença observada não ultrapassa 0,8 ano; as médias ficam entre 34,4 e 36,3 anos.
 - **A distribuição por cor/etnia é desigual:** pessoas brancas formam a maioria nos três grupos. O resumo registra apenas uma pessoa indígena, em Engenharia de Dados, indicando baixa representação na amostra.
