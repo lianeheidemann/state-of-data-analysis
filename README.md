@@ -1,4 +1,4 @@
-# 📊 Portfólio de Análise de Dados — Projetos Acadêmicos
+# 📊 State of Data Brasil 2023 — Análise do Mercado de Dados
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python"/>
@@ -6,14 +6,6 @@
   <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%26%20Seaborn-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Jupyter-Notebooks-orange?style=for-the-badge&logo=jupyter"/>
 </p>
-
----
-
-# Projeto
-
----
-
-# 1. State of Data Brasil 2023 — Análise do Mercado de Dados
 
 ## Objetivo
 
