@@ -83,3 +83,7 @@ Baixe o dataset seguindo as instruções em [`data/README.md`](data/README.md) e
 
 Os DataFrames tratados e as tabelas-resumo (idade média e contagem por profissão, gênero e etnia) usados nas análises acima são exportados pelo próprio notebook em `data/processed/` ao executá-lo. Essa pasta não é versionada no repositório — os arquivos são gerados localmente a cada execução.
 
+---
+
+<p align='center'>Developed by <strong>Liane Heidemann</strong><p>
+
